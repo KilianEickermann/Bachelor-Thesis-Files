@@ -1,4 +1,5 @@
 Bachelor Thesis Code
+
 This repository contains the code developed for my Bachelor's Thesis.
 
 The code is primarily split into two distinct analytical sections:
